@@ -23,15 +23,12 @@ yarn-error.log*
 pnpm-debug.log*
 
 # Local env files
-.env
-.env.local
 .env.development.local
 .env.test.local
 .env.production.local
 
 # IDEs and OS files
 .idea/
-.vscode/
 *.suo
 *.ntvs*
 *.njsproj
@@ -42,3 +39,4 @@ Thumbs.db
 .neon
 create_pr.ps1
 build_output.txt
+config.bat
